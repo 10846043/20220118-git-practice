@@ -24,7 +24,7 @@ Hello `world`
 hello world
 ```
 
-```python=
+```python
 def hello():
     print("hello world")
 ```
@@ -49,3 +49,5 @@ def hello():
 [Google](https://goolge.com)
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Z%C3%A9ro.svg/640px-Z%C3%A9ro.svg.png)
+
+![Image](./goolgelogo.png)
