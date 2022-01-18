@@ -50,4 +50,4 @@ def hello():
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Z%C3%A9ro.svg/640px-Z%C3%A9ro.svg.png)
 
-![Image](./goolgelogo.png)
+![Image](./googlelogo.png)
